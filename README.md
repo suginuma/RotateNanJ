@@ -1,6 +1,9 @@
 # RotateNanJ
 やきうのお兄ちゃんであそぼう
 
+## デモ
+https://unityroom.com/games/yakiu
+
 ## 操作方法
 a or LEFT ：左に転がす  
 d or RIGHT：右に転がす  
